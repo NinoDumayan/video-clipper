@@ -1,0 +1,14 @@
+node_modules/
+.next/
+*.pyc
+__pycache__/
+.env.local
+uploads/
+*.wav
+*.mp3
+backend/__pycache__/
+backend/pipeline/__pycache__/
+.DS_Store
+*.egg-info/
+dist/
+backend/venv/

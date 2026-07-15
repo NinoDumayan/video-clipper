@@ -1,0 +1,12 @@
+node_modules
+.next
+uploads
+backend/venv
+*.pyc
+__pycache__
+.env.local
+.git
+.gitignore
+*.md
+tsconfig.tsbuildinfo
+next-env.d.ts
