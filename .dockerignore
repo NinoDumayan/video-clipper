@@ -10,3 +10,4 @@ __pycache__
 *.md
 tsconfig.tsbuildinfo
 next-env.d.ts
+fly.toml
